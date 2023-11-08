@@ -1,4 +1,4 @@
-How to run the Complaint Management System (CMS) Project
+How to run the Vehicle Theft Online Complaint Management System Project
 
 1. Download the zip file
 
@@ -20,4 +20,4 @@ Credential for admin panel :
 Username: admin, Password: Test@123
 
 Credential for user panel : 
-Username: grmat@test.com ,Password: Test@123
+Username: tariq@gmail.com ,Password: 12345678
